@@ -1,0 +1,6 @@
+GET http://192.168.67.127:8080/api/history
+Content-Type: application/json
+
+{
+  "userId": "674889ee40f2a3a84571e863"
+}
